@@ -1,0 +1,14 @@
+{
+  "name": "angularjs-startkit",
+  "version": "1.0.0",
+  "description": "AngularJs_StartKit",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Chung",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
